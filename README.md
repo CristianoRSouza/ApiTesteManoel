@@ -68,6 +68,7 @@ CaixaForaDoPadraoException
 Caso de falha
 Exemplo de Produto que Não Cabe
 
+```
 {
   "produtoId": "TV_GIGANTE",
   "dimensao": {
@@ -77,3 +78,4 @@ Exemplo de Produto que Não Cabe
     "comprimento": 100
   }
 }
+```
