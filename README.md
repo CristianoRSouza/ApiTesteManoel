@@ -68,7 +68,7 @@ CaixaForaDoPadraoException
 Caso de falha
 Exemplo de Produto que Não Cabe
 
-```
+```json
 {
   "produtoId": "TV_GIGANTE",
   "dimensao": {
